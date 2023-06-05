@@ -1,4 +1,4 @@
-package ru.netology.stats;
+package ru.netology.OOP;
 
 public class FormDate {
     public int day;

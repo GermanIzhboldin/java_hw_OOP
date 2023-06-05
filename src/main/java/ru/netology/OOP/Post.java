@@ -1,6 +1,4 @@
-package ru.netology.stats;
-
-import java.text.Normalizer;
+package ru.netology.OOP;
 
 public class Post {
     public String name;
